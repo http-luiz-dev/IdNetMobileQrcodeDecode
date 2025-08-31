@@ -3,7 +3,7 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
 # Copia os arquivos do projeto
-COPY *.csproj ./
+COPY IdNetQrCodeDecoder/IdNetQrCodeDecoder.csproj ./
 RUN dotnet restore
 
 # Copia todo o código
