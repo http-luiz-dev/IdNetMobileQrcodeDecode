@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IdNetQrCodeDecoder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03400fd2000b7e6e3aca0383d289d305f0b2675a")]
 [assembly: System.Reflection.AssemblyProductAttribute("IdNetQrCodeDecoder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IdNetQrCodeDecoder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
